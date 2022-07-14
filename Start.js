@@ -81,7 +81,7 @@ function bhagwan()
 {
 audio2.play();
 audio2.playbackRate=2.5;
-window.open("weeb.html");
+window.open("https://raw.githack.com/Ayush1234567434324/WeebMania__official/main/weeb.html");
 
 
 
