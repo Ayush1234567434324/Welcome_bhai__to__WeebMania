@@ -75,13 +75,13 @@ question6btn.onclick = function () {
 	}
 };
 
-var audio2= new Audio("Audio/audio1.mp3");
+var audio2= new Audio("Audio/Audio1.mp3");
 
 function bhagwan()
 {
 audio2.play();
 audio2.playbackRate=2.5;
-window.open("https://raw.githack.com/Ayush1234567434324/WeebMania__official/main/weeb.html");
+window.open("https://raw.githack.com/Ayush1234567434324/weebgo/main/weeb.html");
 
 
 
